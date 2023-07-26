@@ -7,4 +7,4 @@ A fantasy name generator.
 ![gif of generator](.github/fantasy-names.gif)
 
 
-__This plugin calls https://fantasyname.lukewh.com/ to generate the names.__
+_This plugin calls https://fantasyname.lukewh.com/ to generate the names. See https://fantasyname.lukewh.com/help for usage._
