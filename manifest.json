@@ -1,0 +1,11 @@
+{
+  "id": "fantasy-names",
+  "name": "Fantast names",
+  "version": "0.0.1",
+  "minAppVersion": "1.3.5",
+  "description": "Insert a random fantasy name.",
+  "author": "Lukewh",
+  "authorUrl": "https://lukewh.com",
+  "fundingUrl": "https://ko-fi.com/lukewh",
+  "isDesktopOnly": false
+}
