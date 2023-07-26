@@ -1,6 +1,6 @@
 {
   "id": "fantasy-names",
-  "name": "Fantast names",
+  "name": "Fantasy name generator",
   "version": "0.0.1",
   "minAppVersion": "1.3.5",
   "description": "Insert a random fantasy name.",
