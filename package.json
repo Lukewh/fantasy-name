@@ -1,12 +1,12 @@
 {
   "name": "fantasy-names",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Insert a random fantasy name.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node esbuild.config.mjs",
-    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production && mkdir build && cp main.js build/main.js && cp manifest.json build/manifest.json"
+    "build": "rm -r build && tsc -noEmit -skipLibCheck && node esbuild.config.mjs production && mkdir build && cp main.js build/main.js && cp manifest.json build/manifest.json"
   },
   "author": "",
   "license": "ISC",
