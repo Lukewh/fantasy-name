@@ -1,6 +1,6 @@
 {
   "name": "fantasy-names",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Insert a random fantasy name.",
   "main": "index.js",
   "scripts": {
